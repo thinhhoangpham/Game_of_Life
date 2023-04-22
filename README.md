@@ -11,3 +11,5 @@ The status of a cell follows the rule of Conway's game of life:
  This project uses p5.js platform to create an infinite loop that keeps the generations going and object oriented programing technique to make cells and keep track of their behaviors.
  The status of ininal cells are randomly decided with 50% chance of living and dead.
  
+ Live demonstration: https://thinhhoangpham.github.io/Game_of_Life/
+ 
